@@ -1,6 +1,9 @@
 # project-plus
 project +  testing and help to pass the COMPTIA poject plus  (2025) edition
 
+## Test it live here:
+https://vampiricbunny.github.io/project-plus/projectHTML/project_study_guide_quiz_with_selection_escaped_with_local.html
+
 
 ## What it looks like:
 Main menu
